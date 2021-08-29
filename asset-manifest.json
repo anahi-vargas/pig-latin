@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pig-latin/static/css/main.7190a2a9.chunk.css",
+    "main.js": "/pig-latin/static/js/main.a0bbc3ae.chunk.js",
+    "main.js.map": "/pig-latin/static/js/main.a0bbc3ae.chunk.js.map",
+    "runtime-main.js": "/pig-latin/static/js/runtime-main.8acd2ea3.js",
+    "runtime-main.js.map": "/pig-latin/static/js/runtime-main.8acd2ea3.js.map",
+    "static/js/2.f0ce76d3.chunk.js": "/pig-latin/static/js/2.f0ce76d3.chunk.js",
+    "static/js/2.f0ce76d3.chunk.js.map": "/pig-latin/static/js/2.f0ce76d3.chunk.js.map",
+    "index.html": "/pig-latin/index.html",
+    "static/css/main.7190a2a9.chunk.css.map": "/pig-latin/static/css/main.7190a2a9.chunk.css.map",
+    "static/js/2.f0ce76d3.chunk.js.LICENSE.txt": "/pig-latin/static/js/2.f0ce76d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8acd2ea3.js",
+    "static/js/2.f0ce76d3.chunk.js",
+    "static/css/main.7190a2a9.chunk.css",
+    "static/js/main.a0bbc3ae.chunk.js"
+  ]
+}
