@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  width: 40%;
+  height: 20%;
+}
+
+.pig {
+  width: 95%;
+  height: 95%;
+}
+
+.to-translate-box textarea {
+  width: 100%;
+  min-height: 10vh;
+  padding: 5px;
+  overflow-y: scroll;
+}
+
+.to-translate-box button {
+  width: 100%;
+  height: 10%;
+}
+
+.translation-box {
+  width: 100%;
+  height: 40%;
+}
+
+/* md devices */
+@media (min-width: 768px) {
+  .container {
+    width: 30%;
+    height: 30%;
+  }
+}
+
+/* lg devices */
+@media (min-width: 992px) {
+  .container {
+    width: 18%;
+    height: 40%;
+  }
+}
